@@ -1,0 +1,12 @@
+C:\Users\zeyne\source\repos\VeriGuvenligi13\VeriGuvenligi13\bin\Debug\VeriGuvenligi13.exe.config
+C:\Users\zeyne\source\repos\VeriGuvenligi13\VeriGuvenligi13\bin\Debug\VeriGuvenligi13.exe
+C:\Users\zeyne\source\repos\VeriGuvenligi13\VeriGuvenligi13\bin\Debug\VeriGuvenligi13.pdb
+C:\Users\zeyne\source\repos\VeriGuvenligi13\VeriGuvenligi13\obj\Debug\VeriGuvenligi13.csprojResolveAssemblyReference.cache
+C:\Users\zeyne\source\repos\VeriGuvenligi13\VeriGuvenligi13\obj\Debug\VeriGuvenligi13.Form1.resources
+C:\Users\zeyne\source\repos\VeriGuvenligi13\VeriGuvenligi13\obj\Debug\VeriGuvenligi13.Properties.Resources.resources
+C:\Users\zeyne\source\repos\VeriGuvenligi13\VeriGuvenligi13\obj\Debug\VeriGuvenligi13.csproj.GenerateResource.cache
+C:\Users\zeyne\source\repos\VeriGuvenligi13\VeriGuvenligi13\obj\Debug\VeriGuvenligi13.csproj.CoreCompileInputs.cache
+C:\Users\zeyne\source\repos\VeriGuvenligi13\VeriGuvenligi13\obj\Debug\VeriGuvenligi13.exe
+C:\Users\zeyne\source\repos\VeriGuvenligi13\VeriGuvenligi13\obj\Debug\VeriGuvenligi13.pdb
+C:\Users\zeyne\source\repos\VeriGuvenligi13\VeriGuvenligi13\obj\Debug\VeriGuvenligi13.YeniUye.resources
+C:\Users\zeyne\source\repos\VeriGuvenligi13\VeriGuvenligi13\obj\Debug\VeriGuvenligi13.Anasayfa.resources
