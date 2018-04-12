@@ -33,7 +33,6 @@ namespace VeriGuvenligi13
             {
             for (int m = 0; m < j; m++)
                 {
-                    gelenDeger[m] = dateDeger[m] << n;//Şifreyi keyi kaydırarak değiştiyor
                     dateDeger[m] = gelenDeger[m] >> n; //keyi şifreyi kaydırarak değiştiriyorum sürekli                                                              //date göre olma sebebi date her durumda gelenden uzun olacak bu da içinde null değeri olmamasını sağlayacak
                     gelenDeger[m] = gelenDeger[m] % (int)Math.Pow(2, dateDeger[m]);//gelen(şifre) dizisinin her bir karakteri zaman(date) dizinin her bir elemanına göre modu alınıyor
                     sonuc[m] = dateDeger[m] ^ gelenDeger[m];//xor işlemi
